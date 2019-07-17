@@ -1,0 +1,24 @@
+{
+  "name": "react-native-ui-timer",
+  "version": "1.0.0",
+  "description": "Native timer for your react native app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lipo11/react-native-ui-timer.git"
+  },
+  "keywords": [
+    "timer",
+    "ui",
+    "countdown"
+  ],
+  "author": "Alex Polomcak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lipo11/react-native-ui-timer/issues"
+  },
+  "homepage": "https://github.com/Lipo11/react-native-ui-timer#readme"
+}
